@@ -11,6 +11,6 @@
 2 - Obter a escolha do computador.<br>
 3 - Comparar as duas opções e determine um vencedor.<br>
 4 - Inicia o programa e exibe os resultados.</p>
-<h2>Ferramentas JavaScript utilizadas</h2>
+<h2>Ferramentas JavaScript utilizadas:</h2>
 <p>Para realização deste projeto foram utilizadas as propriedades de control flow, que basicamente é a forma que o código é executado e manipulação do DOM (Document Object Model).<br><br>
 Também foram utilizadas ferramentas como Switch Statements e If/Else Statements, os quais são utilizados para realizar diferentes tipos de ações com base em condições diferentes.</p>
